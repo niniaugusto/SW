@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\bin\Debug\net6.0\ExemploParametro.exe
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\bin\Debug\net6.0\ExemploParametro.deps.json
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\bin\Debug\net6.0\ExemploParametro.runtimeconfig.json
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\bin\Debug\net6.0\ExemploParametro.dll
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\bin\Debug\net6.0\ExemploParametro.pdb
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\obj\Debug\net6.0\ExemploParametro.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\obj\Debug\net6.0\ExemploParametro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\obj\Debug\net6.0\ExemploParametro.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\obj\Debug\net6.0\ExemploParametro.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\obj\Debug\net6.0\ExemploParametro.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\obj\Debug\net6.0\ExemploParametro.dll
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\obj\Debug\net6.0\refint\ExemploParametro.dll
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\obj\Debug\net6.0\ExemploParametro.pdb
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\obj\Debug\net6.0\ExemploParametro.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Exercicios\ExemploParametro\ExemploParametro\obj\Debug\net6.0\ref\ExemploParametro.dll
