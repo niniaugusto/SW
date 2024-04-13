@@ -1,0 +1,14 @@
+C:\Users\Davizin\Documents\SW\Avião\Avião\bin\Debug\net6.0\Avião.exe
+C:\Users\Davizin\Documents\SW\Avião\Avião\bin\Debug\net6.0\Avião.deps.json
+C:\Users\Davizin\Documents\SW\Avião\Avião\bin\Debug\net6.0\Avião.runtimeconfig.json
+C:\Users\Davizin\Documents\SW\Avião\Avião\bin\Debug\net6.0\Avião.dll
+C:\Users\Davizin\Documents\SW\Avião\Avião\bin\Debug\net6.0\Avião.pdb
+C:\Users\Davizin\Documents\SW\Avião\Avião\obj\Debug\net6.0\Avião.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davizin\Documents\SW\Avião\Avião\obj\Debug\net6.0\Avião.AssemblyInfoInputs.cache
+C:\Users\Davizin\Documents\SW\Avião\Avião\obj\Debug\net6.0\Avião.AssemblyInfo.cs
+C:\Users\Davizin\Documents\SW\Avião\Avião\obj\Debug\net6.0\Avião.csproj.CoreCompileInputs.cache
+C:\Users\Davizin\Documents\SW\Avião\Avião\obj\Debug\net6.0\Avião.dll
+C:\Users\Davizin\Documents\SW\Avião\Avião\obj\Debug\net6.0\refint\Avião.dll
+C:\Users\Davizin\Documents\SW\Avião\Avião\obj\Debug\net6.0\Avião.pdb
+C:\Users\Davizin\Documents\SW\Avião\Avião\obj\Debug\net6.0\Avião.genruntimeconfig.cache
+C:\Users\Davizin\Documents\SW\Avião\Avião\obj\Debug\net6.0\ref\Avião.dll

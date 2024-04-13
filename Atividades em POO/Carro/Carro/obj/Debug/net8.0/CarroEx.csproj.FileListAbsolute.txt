@@ -1,0 +1,14 @@
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\bin\Debug\net8.0\CarroEx.exe
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\bin\Debug\net8.0\CarroEx.deps.json
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\bin\Debug\net8.0\CarroEx.runtimeconfig.json
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\bin\Debug\net8.0\CarroEx.dll
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\bin\Debug\net8.0\CarroEx.pdb
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\obj\Debug\net8.0\CarroEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\obj\Debug\net8.0\CarroEx.AssemblyInfoInputs.cache
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\obj\Debug\net8.0\CarroEx.AssemblyInfo.cs
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\obj\Debug\net8.0\CarroEx.csproj.CoreCompileInputs.cache
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\obj\Debug\net8.0\CarroEx.dll
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\obj\Debug\net8.0\refint\CarroEx.dll
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\obj\Debug\net8.0\CarroEx.pdb
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\obj\Debug\net8.0\CarroEx.genruntimeconfig.cache
+C:\Users\imped\OneDrive\Área de Trabalho\Carro\CarroEx\CarroEx\obj\Debug\net8.0\ref\CarroEx.dll
