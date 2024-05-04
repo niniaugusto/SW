@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\obj\Debug\net6.0\Exercicio controle de estoque.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\obj\Debug\net6.0\Exercicio controle de estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\obj\Debug\net6.0\Exercicio controle de estoque.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\obj\Debug\net6.0\Exercicio controle de estoque.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\obj\Debug\net6.0\Exercicio controle de estoque.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\bin\Debug\net6.0\Exercicio controle de estoque.exe
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\bin\Debug\net6.0\Exercicio controle de estoque.deps.json
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\bin\Debug\net6.0\Exercicio controle de estoque.runtimeconfig.json
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\bin\Debug\net6.0\Exercicio controle de estoque.dll
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\bin\Debug\net6.0\Exercicio controle de estoque.pdb
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\obj\Debug\net6.0\Exercicio controle de estoque.dll
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\obj\Debug\net6.0\refint\Exercicio controle de estoque.dll
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\obj\Debug\net6.0\Exercicio controle de estoque.pdb
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\obj\Debug\net6.0\Exercicio controle de estoque.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\controle_de_estoque\Exercicio controle de estoque\Exercicio controle de estoque\obj\Debug\net6.0\ref\Exercicio controle de estoque.dll
